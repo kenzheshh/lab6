@@ -1,7 +1,11 @@
 //Function 1//
-function Hi(hw) {
-    console.log("Hello, World!")
+function printHello() {
+  console.log("Hello, World!");
+  console.log("Hello, World!");
+  console.log("Hello, World!");
 }
+
+printHello();
 
 //Function 2//
 function greet(name) {
